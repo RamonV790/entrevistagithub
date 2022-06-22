@@ -1,3 +1,13 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+}
+header #logo{
+    text-align: center;
+    padding: 10px;
+}
+
 #comandos{
     background-color: blueviolet;
 }
